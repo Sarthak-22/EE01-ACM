@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "bhavesh v2";
-const char* password = "9821087287";
+const char* ssid = "       ";
+const char* password = "    ";
 String payload;
 String data1;
 String data2;
