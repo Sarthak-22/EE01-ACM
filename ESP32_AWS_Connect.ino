@@ -29,13 +29,13 @@ const char AWS_CERT_CA[]=
 // Device Certificate
 const char AWS_CERT_CRT[] = 
 "-----BEGIN CERTIFICATE-----\n" \
-"
+
 "-----END CERTIFICATE-----\n";
 
 // Device Private Key
 const char AWS_CERT_PRIVATE[] =
 "-----BEGIN RSA PRIVATE KEY-----\n" \
-"
+
 "-----END RSA PRIVATE KEY-----\n";
 
 
