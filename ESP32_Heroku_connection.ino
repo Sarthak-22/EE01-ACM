@@ -2,8 +2,8 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "bhavesh v2";
-const char* password = "9821087287";
+const char* ssid = "      ";
+const char* password = "       ";
 String payload;
 String data2;
 int i=0;
